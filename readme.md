@@ -6,7 +6,9 @@
 
 ### Run:
 ```
-php lib\phpunit.phar TennisGameTests/TennisGameTests.php
+$ git clone https://github.com/daanwissing/tdd-workshop-php.git
+$ cd tdd-workshop-php
+$ php lib\phpunit.phar TennisGameTests/TennisGameTests.php
 ```
 ## Tennis game requirement: 
 
